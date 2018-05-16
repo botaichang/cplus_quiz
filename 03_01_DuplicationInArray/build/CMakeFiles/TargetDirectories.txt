@@ -1,0 +1,3 @@
+/home/melchior/Documents/c++_quiz/03_01_DuplicationInArray/build/CMakeFiles/rebuild_cache.dir
+/home/melchior/Documents/c++_quiz/03_01_DuplicationInArray/build/CMakeFiles/edit_cache.dir
+/home/melchior/Documents/c++_quiz/03_01_DuplicationInArray/build/CMakeFiles/prj.dir
