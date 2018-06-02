@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCList.a  CMakeFiles/CList.dir/home/melchior/Documents/c++_quiz/Utilities/List.cpp.o
+/usr/bin/ranlib libCList.a

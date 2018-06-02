@@ -1,0 +1,4 @@
+/home/melchior/Documents/c++_quiz/06_PrintListInReversedOrder/build/CMakeFiles/rebuild_cache.dir
+/home/melchior/Documents/c++_quiz/06_PrintListInReversedOrder/build/CMakeFiles/edit_cache.dir
+/home/melchior/Documents/c++_quiz/06_PrintListInReversedOrder/build/CMakeFiles/CList.dir
+/home/melchior/Documents/c++_quiz/06_PrintListInReversedOrder/build/CMakeFiles/prj.dir

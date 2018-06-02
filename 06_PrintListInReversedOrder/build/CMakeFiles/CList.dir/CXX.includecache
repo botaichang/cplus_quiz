@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melchior/Documents/c++_quiz/Utilities/List.cpp
+List.h
+/home/melchior/Documents/c++_quiz/Utilities/List.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/melchior/Documents/c++_quiz/Utilities/List.h
+

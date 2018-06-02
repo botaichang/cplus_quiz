@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melchior/Documents/c++_quiz/06_PrintListInReversedOrder/PrintListInReversedOrder.cpp
+iostream
+-
+stdio.h
+-
+../Utilities/List.h
+/home/melchior/Documents/c++_quiz/Utilities/List.h
+stack
+-
+
+/home/melchior/Documents/c++_quiz/Utilities/List.h
+
